@@ -1,0 +1,4 @@
+.build/
+.swiftpm/
+PNGMeta.app/
+.DS_Store
